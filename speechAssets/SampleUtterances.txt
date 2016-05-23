@@ -1,0 +1,16 @@
+GetCards
+
+ToDoList what cards are in my to do list
+ToDoList what I have to work on
+ToDoList what I still have to work on
+ToDoList what I need to work on
+ToDoList what I should work on
+
+ToDoCount how many tasks I need to do
+ToDoCount how many cards I need to do
+ToDoCount how many cards I need to work on
+
+UpdateCardLane move the card I am working on to the {Lane} column
+UpdateCardLane move the card I am working on to the {Lane} lane
+UpdateCardLane move the task I am working on to the {Lane} column
+UpdateCardLane move the task I am working on to the {Lane} lane

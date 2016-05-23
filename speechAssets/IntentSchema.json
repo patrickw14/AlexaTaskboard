@@ -1,0 +1,29 @@
+{
+  "intents": [
+    {
+      "intent": "GetCards"
+    },
+    {
+      "intent": "ToDoList"
+    },
+    {
+      "intent": "ToDoCount"
+    },
+    {
+      "intent": "UpdateCardLane",
+      "slots": [{
+        "name": "Lane",
+        "type": "LIST_OF_LANES"
+      }]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

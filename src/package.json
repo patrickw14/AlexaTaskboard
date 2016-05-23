@@ -1,0 +1,23 @@
+{
+  "name": "snAlexaTaskBoards",
+  "version": "1.0.0",
+  "description": "",
+  "private": "true",
+  "devDependencies": {
+    "aws-sdk": "2.0.23",
+    "grunt": "0.4.*",
+    "grunt-aws-lambda": "0.*.*",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-notify": "^0.4.3"
+  },
+  "dependencies": {
+    "request": "2.49.0",
+    "request-json": "*"
+  },
+  "bundledDependencies": [
+    "request",
+    "request-json"
+  ],
+  "author": "",
+  "license": "BSD"
+}
